@@ -18,7 +18,7 @@
 }
 
 .blog__title{
-   font-family: 'Playfair Display';
+   font-family: "Playfair Display";
    font-weight: bold;
    font-size: 2.5rem;
    color: darkblue;
@@ -32,21 +32,21 @@
 }
 
 .blog__text{
-   font-family: 'Source Sans 3';
+   font-family: "Source Sans 3";
    font-size: 1.125rem;
    line-height: 1.8;
    color: #333;
 }
 
 .blog__heading{
-   font-family: 'Source Sans 3';
+   font-family: "Source Sans 3";
    font-weight: 600;
    font-size: 1.5rem;
    margin-top: 32px;
 }
 
 .blog__code{
-   font-family: 'Fira Code', monospace;
+   font-family: "Fira Code", monospace;
    background-color: #f4f4f4;
    padding: 16px;
    border-radius: 6px;
