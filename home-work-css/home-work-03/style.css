@@ -9,12 +9,11 @@ button {
 
 .container {
   width: 1000px;
-  height: 500px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 3rem;
-  padding: 2rem 6rem;
+  padding: 3rem 6rem;
   border: 1px solid black;
   box-sizing: border-box;
 }
